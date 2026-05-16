@@ -1,0 +1,7 @@
+{
+  "name": "人像试穿摆姿势",
+  "description": "An advanced AI-powered fashion design and photography studio specializing in virtual try-ons, ghost mannequin effects, and professional lighting adjustments using Gemini's latest image-to-image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
